@@ -1,10 +1,11 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/akumathedyn123/">
 </a></p>
-<h2><b><i>Hi There, This is Md. N e H Jack 👋</i></b></h2>
+<h1><b><i>Hi There, This is Md. N e H Jack 👋</i></b></h1>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
 
-<b><i>💻 My old profile is having some issues and I am trying to get back the profile. The original profile is this one https://github.com/akumathedynd </i></b>
+<b><i>💻 My old profile is having some issues and I am trying to get back the profile. The original profile is this one https://github.com/akumathedynd. All of my old projects are there. Only those I had backed up are uploaded here. </i></b>
+
 <h3><b><i> About me :</i></b></h3>
 <li> >💻 <i>I love anime</i></li>
 <li> >💻 <i>Forever 02</i></li>
