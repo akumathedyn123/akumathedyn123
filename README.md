@@ -13,8 +13,7 @@
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/akumathedynd"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=akumathedynd&color=blueviolet&style=flat-square"><br></a>
-<h3><b> 💻 Tech Stack:
-<h3 align="center">
+
 <h4><b> 💻Contact Author :</b></h3>
 <a href="https://github.com/akumathedyn123"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
   <a href="https://github.com/akumathedynd"><img align="left" title="Github" alt="Github" width="30px" src="png_pic/github.png" /></a>
