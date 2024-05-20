@@ -3,7 +3,8 @@
 </a></p>
 <h2><b><i>Hi There, This is Md. N e H Jack 👋</i></b></h2>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
-<b><i>💻 My old ID has some issues and i am trying to get back the id. The Original ID is this one https://github.com/akumathedynd </i></b>
+
+<b><i>💻 My old ID has some issues and I am trying to get back the id. The Original ID is this one https://github.com/akumathedynd </i></b>
 <h3><b><i> About me :</i></b></h3>
 <li> >💻 <i>I love anime</i></li>
 <li> >💻 <i>Forever 02</i></li>
