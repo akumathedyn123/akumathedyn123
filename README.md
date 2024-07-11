@@ -8,8 +8,8 @@
 
 <h3><b><i> About me :</i></b></h3>
 <li> >💻 <i>I love anime</i></li>
-<li> >💻 <i>Forever 02</i></li>
-<li> >💻 <i>Coding is Love</i></li>
+<li> >💻 <i>Forever 02 is best waifu.</i></li>
+<li> >💻 <i>Coding is Love.</i></li>
 <li> >🐍 <i>Learning Python, C++, JS and Machine Learning</i></li>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
