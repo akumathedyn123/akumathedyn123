@@ -21,3 +21,4 @@
   <a href="https://github.com/akumathedynd"><img align="left" title="Github" alt="Github" width="30px" src="git.png" /></a>
 <a href="https://facebook.com/javk.chaan"><img align="left" title="Facebook" alt="Facebook" width="30px" src="fb.png" /></a>
 
+**<meta name="google-site-verification" content="FlMjGYld1LUXhuyym6lEDe-zwApWSxjDPCEjFhm_nZk" />**
