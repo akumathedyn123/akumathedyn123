@@ -1,7 +1,7 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/akumathedyn123/">
 </a></p>
-<h1><b><i>Hi There, Soy (I'm) Md. N e H Jack 👋</i></b></h1>
+<h1 align="center"><b><i>Hi There, Soy (I'm) Md. N e H Jack 👋</i></b></h1>
 <b><i>💻 I am a Student & a part time Programmer</i></b>
 
 <b><i>💻 My old profile is having some issues and I am trying to get back the profile. The original profile is this one https://github.com/akumathedynd. All of my old projects are in old profile. Only those I had backed up are uploaded here. </i></b>
