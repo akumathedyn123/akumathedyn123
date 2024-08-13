@@ -7,10 +7,10 @@
 <b><i>💻 My old profile is having some issues and I am trying to get back the profile. The original profile is this one https://github.com/akumathedynd. All of my old projects are in old profile. Only those I had backed up are uploaded here. Thanks for reading. i hope you get a very nice day. </i></b>
 
 <h3><b><i> About me :</i></b></h3>
-<li> >💻 <i>I love anime</i></li>
-<li> >💻 <i>Forever 02 is best waifu.</i></li>
+<li> >📖 <i>I love anime.</i></li>
+<li> >❤️ <i>Forever 02 is best waifu.</i></li>
 <li> >💻 <i>Coding is Love.</i></li>
-<li> >🐍 <i>Learning Python, C++, JS and Machine Learning</i></li>
+<li> >🐍 <i>Learning Python, C++, JS, Machine Learning and Artificial Intelligence.</i></li>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/akumathedynd"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=akumathedyn123&color=blueviolet&style=flat-square"><br></a>
