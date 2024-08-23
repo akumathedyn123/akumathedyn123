@@ -8,7 +8,7 @@
 
 <h3><b><i> About me :</i></b></h3>
 <li> >📖 <i>I love anime.</i></li>
-<li> >❤️ <i>Forever 02 is best waifu.</i></li>
+<li> >❤ <a href="https://github.com/akumathedyn123"><img align="left" width="10px" src="git.png" /></a> <i>Forever 02 is best waifu.</i></li>
 <li> >💻 <i>Coding is Love.</i></li>
 <li> >🐍 <i>Learning Python, C++, JS, Machine Learning and Artificial Intelligence.</i></li>
 
