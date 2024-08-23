@@ -8,7 +8,7 @@
 
 <h3><b><i> About me :</i></b></h3>
 <li> >📖 <i>I love anime.</i></li>
-<li> > <img align="left" width="15px" src="git.png" /> <i>Forever 02 is best waifu.</i></li>
+<li> > <img style="margin-left: 10px; margin-top: 500px;" width="16px" src="fb.png"/>  Forever 02 is best waifu.</li>
 <li> >💻 <i>Coding is Love.</i></li>
 <li> >🐍 <i>Learning Python, C++, JS, Machine Learning and Artificial Intelligence.</i></li>
 
