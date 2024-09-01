@@ -9,7 +9,7 @@
 <h3><b><i> About me :</i></b></h3>
 <li> > <img style="margin-left: 10px; margin-top: 500px;" width="14px" src="db.png"/> I love anime.</li>
 <li> > <img style="margin-left: 10px; margin-top: 500px;" width="14px" src="002.png"/>  Forever 02 is best waifu.</li>
-<li> >💻 <i>Coding & Math are Love.</i></li>
+<li> >💻 <i>Coding & Math are my love.</i></li>
 <li> >🧮 <i>I am into Math & Programming Olympiads.</i></li>
 <li> >👨🏻‍💻 <i>I am interested to contibute in any types of projects.</i></li>
 <li> >🐍 <i>Learning Python, C++, JS, Machine Learning and Artificial Intelligence.</i></li>
