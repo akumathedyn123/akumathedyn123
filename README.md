@@ -7,7 +7,7 @@
 <b><i>💻 My old profile is having some issues and I am trying to get back the profile. The original profile is this one https://github.com/akumathedynd. All of my old projects are in old profile. Only those I had backed up are uploaded here. Thanks for reading. I hope you have a very nice day. </i></b>
 
 <h3><b><i> About me :</i></b></h3>
-<li> >📖 <i>I love anime.</i></li>
+<li> > <img style="margin-left: 10px; margin-top: 500px;" width="14px" src="DN.png"/> I love anime.</li>
 <li> > <img style="margin-left: 10px; margin-top: 500px;" width="14px" src="002.png"/>  Forever 02 is best waifu.</li>
 <li> >💻 <i>Coding & Math are Love.</i></li>
 <li> >🧮 <i>I am into Math & Programming Olympiads.</i></li>
