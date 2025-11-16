@@ -12,7 +12,7 @@
 <li> >💻 <i>Coding & Math are my love.</i></li>
 <li> >🧮 <i>I am into Math & Programming Olympiads.</i></li>
 <li> >👨🏻‍💻 <i>I am interested to contibute in any types of projects.</i></li>
-<li> >🐍 <i>Learning Python, C++, JS, Machine Learning and Artificial Intelligence.</i></li>
+<li> >🐍 <i>Learning Arduino, Python, C++, JS, Machine Learning and Artificial Intelligence.</i></li>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/akumathedynd"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=akumathedyn123&color=blueviolet&style=flat-square"><br></a>
